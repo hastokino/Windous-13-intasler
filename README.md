@@ -1,2 +1,2 @@
-# Windous-13-intasler
+# Shutware.Generic.Anthrax
 Your pc will crash in the shutdown...
